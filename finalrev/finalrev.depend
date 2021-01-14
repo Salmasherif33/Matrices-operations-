@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1560857378 source:c:\users\compu_max\documents\finalrev\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+
+1560857410 source:c:\users\compu_max\documents\finalrev\class.cpp
+	<iostream>
+

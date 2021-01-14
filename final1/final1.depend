@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1561322615 source:c:\users\compu_max\documents\final1\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<sstream>
+	<math.h>
+
